@@ -1,2 +1,2 @@
 # sentimentalists
-Shark Task 6B LegalNER
+Shared Task 6B LegalNER
