@@ -189,3 +189,8 @@ Please click on the link displayed in the console to see the annotated entities.
 
 This work is part of [OpenNyAI](https://opennyai.org/) mission which is funded by [EkStep](https://ekstep.org/)
 and [Agami](https://agami.in/). 
+
+## References
+- https://sites.google.com/view/legaleval/home?pli=1#h.fbpoqsn0hjeh
+- https://arxiv.org/pdf/2211.03442.pdf 
+- https://github.com/Legal-NLP-EkStep/legal_NER 
