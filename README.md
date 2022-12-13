@@ -184,10 +184,6 @@ Please click on the link displayed in the console to see the annotated entities.
 |---------------------------|-------|
 | Run Inference          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15KEXbcCBXsqJksu7j2hwTyMp5cT9852y?usp=sharing) |
 
-## 11. Evaluation
-
-Evaluation portal will be made available soon.
-
 ## Acknowledgements
 
 This work is part of [OpenNyAI](https://opennyai.org/) mission which is funded by [EkStep](https://ekstep.org/)
