@@ -179,7 +179,7 @@ displacy.serve(combined_doc, style='ent',port=8080,options=options)
 
 Please click on the link displayed in the console to see the annotated entities.
 
-## 7. Google Colab Examples
+## 6. Google Colab Examples
 
 | Description               | Link  |
 |---------------------------|-------|
