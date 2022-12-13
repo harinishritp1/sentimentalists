@@ -160,7 +160,7 @@ It take less time to run but can miss entities as compared to 'sent' method. Use
 b.Passing sentence by sentence:Each sentence is individually passed through model and entities are extracted.
 It takes more time to run but more accurate than passing the whole judgment. Use run_type='sent' for this method.
 
-## 6.  Visualization of extracted Named Entities
+## 5.  Visualization of extracted Named Entities
 
 To visualize the NER result on single judgment text please run
 
