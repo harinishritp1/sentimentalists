@@ -1,4 +1,5 @@
 # SemEval 2023 Task 6: LegalEval: Understanding Legal Texts
+## Contributors: Saumya Bansal, Harini Thorali, Sai Pratyush Thota
 #### This repo is associated with the paper "Named Entity Recognition in Indian court judgments" accepted at NLLP 2022 workshop at EMNLP.
 
 ## 1. Why Seperate NER for Indian Court Judgments?
