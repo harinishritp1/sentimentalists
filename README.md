@@ -1,4 +1,4 @@
-# SemEval-2023 Task 6-B: LegalEval: Legal Named Entities Extraction (L-NER)
+# SemEval 2023 Task 6-B: LegalEval: Legal Named Entities Extraction (L-NER)
 ## Contributors: Saumya Bansal, Harini Thorali, Sai Pratyush Thota
 
 #### The task experimentation results are present in the Model Results folder.
