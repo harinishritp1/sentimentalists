@@ -1,7 +1,7 @@
 # SemEval 2023 Task 6: LegalEval: Understanding Legal Texts
 ## Contributors: Saumya Bansal, Harini Thorali, Sai Pratyush Thota
 
-#### The task experimentation results are present in the Model Results folder
+#### The task experimentation results are present in the Model Results folder.
 
 #### This repo is associated with the paper "Named Entity Recognition in Indian court judgments" accepted at NLLP 2022 workshop at EMNLP.
 
