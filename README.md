@@ -5,6 +5,8 @@
 
 #### This repo is associated with the paper "Named Entity Recognition in Indian court judgments" accepted at NLLP 2022 workshop at EMNLP.
 
+#### Original Repo : https://github.com/Legal-NLP-EkStep/legal_NER
+
 ## 1. Why Seperate NER for Indian Court Judgments?
 
 Named Entities Recognition is commonly studied problem in Natural Language Processing and many pre-trained models are
